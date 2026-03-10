@@ -1,5 +1,3 @@
-# VapHunt
-Crawl the Web App.
 # VapHunt 🛡️
 ### Automated VAPT & Threat Hunting CLI — No AI, No API Keys
 
